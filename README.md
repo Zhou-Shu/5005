@@ -1,6 +1,16 @@
 # Assignment1
+<!-- TOC -->
 
-## 数据获取
+- [1. 数据获取](#1-数据获取)
+- [2. 当下疫情情况(DJ, WYM)](#2-当下疫情情况dj-wym)
+- [3. 群体免疫(ZS，L3)](#3-群体免疫zsl3)
+  - [3.1. 为什么有效](#31-为什么有效)
+  - [3.2. 疫苗类型和供应量](#32-疫苗类型和供应量)
+- [4. 疫苗发放优先级以及原因(WKL, XJL)](#4-疫苗发放优先级以及原因wkl-xjl)
+- [5. 疫苗注射结果预测(WKL, XJL)](#5-疫苗注射结果预测wkl-xjl)
+
+<!-- /TOC -->
+## 1. 数据获取
 
 - [X] 美国人口特征数据
 - [ ] 疫苗供应量（州、时间）
@@ -8,18 +18,18 @@
 - [ ] 获病人群职业划分
 - [ ] 免疫持续时间
 - [ ] *疫苗分流程免疫率*
+- [ ] <a href="https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data/vbim-akqf"> 当下疫情情况</a>
 
-
-## 1. 当下疫情情况
+## 2. 当下疫情情况(DJ, WYM)
 
 1. 近期按州分析
 2. 年龄，性别，种族，职业
 3. 总人数，死亡率，医院收容率
 4. Presence of underlying comorbidity or disease
 
-## 2. 群体免疫
+## 3. 群体免疫(ZS，L3)
 
-### 2.1. 为什么有效
+### 3.1. 为什么有效
 
 群体免疫的条件:
 
@@ -34,9 +44,9 @@ $R_0=2.2, E$ 是疫苗有效率。
 
 https://www.reuters.com/article/us-health-coronavirus-immunity-analysis-idUSKBN27Y124
 
-### 2.2. 疫苗类型和供应量
+### 3.2. 疫苗类型和供应量
 
-## 3. 疫苗发放优先级以及原因
+## 4. 疫苗发放优先级以及原因(WKL, XJL)
 
 根据：
 
@@ -50,7 +60,7 @@ https://www.reuters.com/article/us-health-coronavirus-immunity-analysis-idUSKBN2
 3. 地区
 
 
-## 4. 疫苗注射结果预测
+## 5. 疫苗注射结果预测(WKL, XJL)
 
 1. 免疫持续时间
-2. 
+...
