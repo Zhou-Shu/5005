@@ -1,4 +1,4 @@
-# Assignment1
+# Covid 19 US
 <!-- TOC -->
 
 - [1. 数据获取](#1-数据获取)
